@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTask", "MultiTask\MultiTask.csproj", "{A0097AAF-20B5-4C54-B2B1-0FB76E6CFCE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0097AAF-20B5-4C54-B2B1-0FB76E6CFCE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0097AAF-20B5-4C54-B2B1-0FB76E6CFCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0097AAF-20B5-4C54-B2B1-0FB76E6CFCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0097AAF-20B5-4C54-B2B1-0FB76E6CFCE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA22B29-2E2A-410A-8D13-0A22CDC9CE52}
+	EndGlobalSection
+EndGlobal

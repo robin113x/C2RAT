@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C2RAT\04-MulltiCmd\MultiTask\MultiTask\bin\Debug\MultiTask.exe.config
+C:\Users\Administrator\Desktop\C2RAT\04-MulltiCmd\MultiTask\MultiTask\bin\Debug\MultiTask.exe
+C:\Users\Administrator\Desktop\C2RAT\04-MulltiCmd\MultiTask\MultiTask\bin\Debug\MultiTask.pdb
+C:\Users\Administrator\Desktop\C2RAT\04-MulltiCmd\MultiTask\MultiTask\obj\Debug\MultiTask.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C2RAT\04-MulltiCmd\MultiTask\MultiTask\obj\Debug\MultiTask.Form1.resources
+C:\Users\Administrator\Desktop\C2RAT\04-MulltiCmd\MultiTask\MultiTask\obj\Debug\MultiTask.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C2RAT\04-MulltiCmd\MultiTask\MultiTask\obj\Debug\MultiTask.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C2RAT\04-MulltiCmd\MultiTask\MultiTask\obj\Debug\MultiTask.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C2RAT\04-MulltiCmd\MultiTask\MultiTask\obj\Debug\MultiTask.exe
+C:\Users\Administrator\Desktop\C2RAT\04-MulltiCmd\MultiTask\MultiTask\obj\Debug\MultiTask.pdb
