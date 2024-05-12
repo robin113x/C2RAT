@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C2RAT\02-Hello\HelloIshu\HelloIshu\bin\Debug\HelloIshu.exe.config
+C:\Users\Administrator\Desktop\C2RAT\02-Hello\HelloIshu\HelloIshu\bin\Debug\HelloIshu.exe
+C:\Users\Administrator\Desktop\C2RAT\02-Hello\HelloIshu\HelloIshu\bin\Debug\HelloIshu.pdb
+C:\Users\Administrator\Desktop\C2RAT\02-Hello\HelloIshu\HelloIshu\obj\Debug\HelloIshu.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C2RAT\02-Hello\HelloIshu\HelloIshu\obj\Debug\HelloIshu.Form1.resources
+C:\Users\Administrator\Desktop\C2RAT\02-Hello\HelloIshu\HelloIshu\obj\Debug\HelloIshu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C2RAT\02-Hello\HelloIshu\HelloIshu\obj\Debug\HelloIshu.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C2RAT\02-Hello\HelloIshu\HelloIshu\obj\Debug\HelloIshu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C2RAT\02-Hello\HelloIshu\HelloIshu\obj\Debug\HelloIshu.exe
+C:\Users\Administrator\Desktop\C2RAT\02-Hello\HelloIshu\HelloIshu\obj\Debug\HelloIshu.pdb

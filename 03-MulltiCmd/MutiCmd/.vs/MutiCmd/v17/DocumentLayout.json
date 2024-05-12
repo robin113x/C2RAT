@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C2RAT\\03-MulltiCmd\\MutiCmd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07525663-72DE-42E8-8687-CC3142ED0E13}|MutiCmd\\MutiCmd.csproj|c:\\users\\administrator\\desktop\\c2rat\\03-mullticmd\\muticmd\\muticmd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07525663-72DE-42E8-8687-CC3142ED0E13}|MutiCmd\\MutiCmd.csproj|solutionrelative:muticmd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07525663-72DE-42E8-8687-CC3142ED0E13}|MutiCmd\\MutiCmd.csproj|c:\\users\\administrator\\desktop\\c2rat\\03-mullticmd\\muticmd\\muticmd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07525663-72DE-42E8-8687-CC3142ED0E13}|MutiCmd\\MutiCmd.csproj|solutionrelative:muticmd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C2RAT\\03-MulltiCmd\\MutiCmd\\MutiCmd\\Form1.cs",
+              "RelativeDocumentMoniker": "MutiCmd\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C2RAT\\03-MulltiCmd\\MutiCmd\\MutiCmd\\Form1.cs",
+              "RelativeToolTip": "MutiCmd\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:38:15.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C2RAT\\03-MulltiCmd\\MutiCmd\\MutiCmd\\Form1.cs",
+              "RelativeDocumentMoniker": "MutiCmd\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C2RAT\\03-MulltiCmd\\MutiCmd\\MutiCmd\\Form1.cs [Design]",
+              "RelativeToolTip": "MutiCmd\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:37:33.343Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

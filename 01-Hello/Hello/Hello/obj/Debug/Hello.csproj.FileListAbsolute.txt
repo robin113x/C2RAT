@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\C2RAT\01-Hello\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\Administrator\Desktop\C2RAT\01-Hello\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\Administrator\Desktop\C2RAT\01-Hello\Hello\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C2RAT\01-Hello\Hello\Hello\obj\Debug\Hello.Form1.resources
+C:\Users\Administrator\Desktop\C2RAT\01-Hello\Hello\Hello\obj\Debug\Hello.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C2RAT\01-Hello\Hello\Hello\obj\Debug\Hello.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C2RAT\01-Hello\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C2RAT\01-Hello\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\Administrator\Desktop\C2RAT\01-Hello\Hello\Hello\obj\Debug\Hello.pdb

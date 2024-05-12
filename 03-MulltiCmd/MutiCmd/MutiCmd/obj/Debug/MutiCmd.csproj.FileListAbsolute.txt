@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C2RAT\03-MulltiCmd\MutiCmd\MutiCmd\bin\Debug\MutiCmd.exe.config
+C:\Users\Administrator\Desktop\C2RAT\03-MulltiCmd\MutiCmd\MutiCmd\bin\Debug\MutiCmd.exe
+C:\Users\Administrator\Desktop\C2RAT\03-MulltiCmd\MutiCmd\MutiCmd\bin\Debug\MutiCmd.pdb
+C:\Users\Administrator\Desktop\C2RAT\03-MulltiCmd\MutiCmd\MutiCmd\obj\Debug\MutiCmd.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C2RAT\03-MulltiCmd\MutiCmd\MutiCmd\obj\Debug\MutiCmd.Form1.resources
+C:\Users\Administrator\Desktop\C2RAT\03-MulltiCmd\MutiCmd\MutiCmd\obj\Debug\MutiCmd.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C2RAT\03-MulltiCmd\MutiCmd\MutiCmd\obj\Debug\MutiCmd.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C2RAT\03-MulltiCmd\MutiCmd\MutiCmd\obj\Debug\MutiCmd.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C2RAT\03-MulltiCmd\MutiCmd\MutiCmd\obj\Debug\MutiCmd.exe
+C:\Users\Administrator\Desktop\C2RAT\03-MulltiCmd\MutiCmd\MutiCmd\obj\Debug\MutiCmd.pdb
